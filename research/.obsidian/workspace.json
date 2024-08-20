@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracking papers/Simple Online and Realtime Tracking (2017).md",
+                "file": "Tracking papers/Multi-Object Tracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracking papers/Simple Online and Realtime Tracking (2017).md",
+                "file": "Tracking papers/Multi-Object Tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracking papers/Simple Online and Realtime Tracking (2017).md",
+                "file": "Tracking papers/Multi-Object Tracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracking papers/Simple Online and Realtime Tracking (2017).md"
+                "file": "Tracking papers/Multi-Object Tracking.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "1f698b0ce7717fcc",
   "lastOpenFiles": [
     "Tracking papers/Tracking papers.md",
-    "Tracking papers",
     "Tracking papers/Simple Online and Realtime Tracking (2017).md",
+    "Tracking papers",
     "Tracking papers/Multi-Object Tracking.md",
     "Simple Online and Realtime Tracking.md",
     "Untitled.canvas",
