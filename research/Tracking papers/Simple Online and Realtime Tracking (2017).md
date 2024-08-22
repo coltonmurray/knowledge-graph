@@ -16,7 +16,7 @@ Variants of interest:
  - [[HybridSort]]
 
 ## Abstract
- - Pragmatic approach to multiple object tracking where the main focus is to associate objects efficiently for online and realtime applications.
+ - Pragmatic approach to multiple object tracking where the main focus is to associate objects efficiently for online and real-time applications.
  - tracking-by-detection
  - Kalman Filter
  - Hungarian Algorithm

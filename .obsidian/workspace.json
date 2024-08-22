@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "1b47e25b8bd6bd82",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc8612ae7fc43712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4fe5b64efeb4bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a8d4ff22f06a27e",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c5e8942f448d1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc88b4d8ded75342",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be20d4d538052983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b26d81c0b3ae332f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c2b991c90825dfc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9e573013b4fa5cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae0af636cbb5e43f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eeccde60acdff436",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de0b50b561c5217b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6cf7e1c6bec9acda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2120fa500877995",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt/Decrypt": false
+    }
+  },
+  "active": "9c4fe5b64efeb4bc",
+  "lastOpenFiles": [
+    "machine/login.md",
+    "daily-scratchpad/08-21-2024.md",
+    "research/Rewriting Yolov1 from scratch.md",
+    "research/Tracking papers/Unified Sequence-to-Sequence Learning for Single- and Multi-Modal Visual Object Tracking.md",
+    "4.md",
+    "research/Tracking papers/Single-Object Tracking.md",
+    "research/Tracking papers/Tracking papers.md",
+    "research/Tracking papers/Multi-Object Tracking.md",
+    "research/Tracking papers/Simple Online and Realtime Tracking (2017).md",
+    "daily-scratchpad/08-20-2024.md",
+    "machine",
+    "Untitled.canvas",
+    "daily-scratchpad/20-08-2024.md",
+    "daily-scratchpad/2024-08-20.md",
+    "2024-08-20.md",
+    "daily-scratchpad"
+  ]
+}
